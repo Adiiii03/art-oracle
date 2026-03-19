@@ -121,7 +121,7 @@ class ArtBrain:
                 {"role": "system", "content": sys_prompt},
                 {"role": "user", "content": user_message},
             ],
-            options={"temperature": temperature},
+            options={"temperature": temperature, "num_predict": 2048},
         )
 
         llm_text = response["message"]["content"]
