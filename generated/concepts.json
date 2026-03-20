@@ -1,0 +1,754 @@
+[
+  {
+    "title": "Fractured Zen",
+    "description": "",
+    "medium": "Mixed media",
+    "dimensions": "Variable",
+    "influences": [],
+    "cultural_synthesis": "",
+    "image_prompt": "",
+    "_meta": {
+      "seed_prompt": "What artwork would emerge from the intersection of Japanese wabi-sabi philosophy and brutalist architecture?",
+      "context_artworks": [
+        {
+          "title": "",
+          "artist": "",
+          "date": "20th century",
+          "medium": "Stone",
+          "url": "https://www.metmuseum.org/art/collection/search/38772"
+        },
+        {
+          "title": "Painting from a Ceremonial House Ceiling",
+          "artist": "",
+          "date": "mid-20th century",
+          "medium": "Sago palm petiole, paint",
+          "url": "https://www.metmuseum.org/art/collection/search/313922"
+        },
+        {
+          "title": "",
+          "artist": "Ryuwatei",
+          "date": "1896",
+          "medium": "Ink and color on paper",
+          "url": "https://www.metmuseum.org/art/collection/search/57865"
+        },
+        {
+          "title": "",
+          "artist": "",
+          "date": "1875–80",
+          "medium": "Lithograph",
+          "url": "https://www.metmuseum.org/art/collection/search/688473"
+        },
+        {
+          "title": "",
+          "artist": "Raku Ryōnyū",
+          "date": "early 19th century",
+          "medium": "Clay covered with a black glaze (Raku ware)",
+          "url": "https://www.metmuseum.org/art/collection/search/62886"
+        },
+        {
+          "title": "",
+          "artist": "Utagawa Kunisada",
+          "date": "",
+          "medium": "Woodblock print; ink and color on paper",
+          "url": "https://www.metmuseum.org/art/collection/search/58210"
+        },
+        {
+          "title": "",
+          "artist": "",
+          "date": "19th century",
+          "medium": "Lacquer, roiro, hirame, gold and coloured hiramakie, takamakie; Interior: nashiji and fundame",
+          "url": "https://www.metmuseum.org/art/collection/search/58690"
+        },
+        {
+          "title": "",
+          "artist": "",
+          "date": "2nd–1st century BCE",
+          "medium": "Terracotta",
+          "url": "https://www.metmuseum.org/art/collection/search/38288"
+        }
+      ],
+      "model": "llama3.2",
+      "generated_at": "2026-03-19T07:35:52.162908+00:00"
+    }
+  },
+  {
+    "title": "Andean Optic Tapestry",
+    "description": "A vibrant, geometrically-patterned silk tapestry incorporating traditional Andean motifs with op-art optical illusions, featuring concentric spirals and tessellated designs in shades of scarlet, emerald green, and cobalt blue.",
+    "medium": "Silk weft and warp on a wooden loom",
+    "dimensions": "72\\\" x 48\\\"",
+    "influences": [
+      "Textile Fragment by (6th–7th century)",
+      "\\\" by (19th century)",
+      "Americana Print: Revolt\" Textile by René Clarke"
+    ],
+    "cultural_synthesis": "Bridging ancient textile traditions with modern visual experimentation, blurring boundaries between indigenous aesthetics and optical art.",
+    "image_prompt": "A close-up of the tapestry's central spiral motif, featuring a stylized Andean pattern that appears to shift and distort as it rotates.",
+    "_meta": {
+      "seed_prompt": "Imagine a textile that fuses Andean weaving traditions with op-art optical illusions.",
+      "context_artworks": [
+        {
+          "title": "Textile sample",
+          "artist": "J. Claude Frères & Co.|Unknown Designer",
+          "date": "ca. 1900",
+          "medium": "Silk",
+          "url": "https://www.metmuseum.org/art/collection/search/480360"
+        },
+        {
+          "title": "Textile sample",
+          "artist": "J. Claude Frères & Co.|Unknown Designer",
+          "date": "ca. 1900",
+          "medium": "Silk",
+          "url": "https://www.metmuseum.org/art/collection/search/480018"
+        },
+        {
+          "title": "Textile Fragment",
+          "artist": "",
+          "date": "6th–7th century",
+          "medium": "Silk: double weave (?)",
+          "url": "https://www.metmuseum.org/art/collection/search/443580"
+        },
+        {
+          "title": "Textile Fragment",
+          "artist": "",
+          "date": "7th–8th century",
+          "medium": "Wool, linen; tapestry weave",
+          "url": "https://www.metmuseum.org/art/collection/search/444140"
+        },
+        {
+          "title": "Textile sample",
+          "artist": "Unknown Designer",
+          "date": "first half 20th Century",
+          "medium": "Linen",
+          "url": "https://www.metmuseum.org/art/collection/search/482409"
+        },
+        {
+          "title": "Textile Fragment",
+          "artist": "",
+          "date": "6th–7th century",
+          "medium": "Wool, linen; plain weave, tapestry weave",
+          "url": "https://www.metmuseum.org/art/collection/search/444045"
+        },
+        {
+          "title": "",
+          "artist": "",
+          "date": "19th century",
+          "medium": "Silk / Compound weave",
+          "url": "https://www.metmuseum.org/art/collection/search/72119"
+        },
+        {
+          "title": "\"Americana Print: Revolt\" Textile",
+          "artist": "René Clarke",
+          "date": "1925",
+          "medium": "Silk",
+          "url": "https://www.metmuseum.org/art/collection/search/487523"
+        }
+      ],
+      "model": "llama3.2",
+      "generated_at": "2026-03-19T07:35:54.894442+00:00"
+    }
+  },
+  {
+    "title": "Concept 3",
+    "description": "{\"title\":\"\"Aurora Rising\",\"description\":\"A dynamic, kinetic sculpture combining the mystical energy of ancient Mesopotamian cylinder seals with the expressive dynamism of kinetic art. The piece features intricate, swirling patterns evoking the wings of celestial beings, created using a combination of steatite and glass. A rotating axis powers a series of interlocking discs, each adorned with a unique seal motif, which, when turned, reveal an otherworldly narrative.\", \"medium\":\"steatite & glass\",",
+    "medium": "Mixed media",
+    "dimensions": "Variable",
+    "influences": [],
+    "cultural_synthesis": "",
+    "image_prompt": "",
+    "_meta": {
+      "seed_prompt": "Describe a sculpture combining ancient Mesopotamian cylinder seal aesthetics with kinetic art movement.",
+      "context_artworks": [
+        {
+          "title": "Cylinder seal",
+          "artist": "",
+          "date": "ca. 2345–2181 B.C. or later",
+          "medium": "Steatite",
+          "url": "https://www.metmuseum.org/art/collection/search/558738"
+        },
+        {
+          "title": "Magical Figure",
+          "artist": "",
+          "date": "ca. 1802–1550 B.C.",
+          "medium": "Clay (unfired)",
+          "url": "https://www.metmuseum.org/art/collection/search/546381"
+        },
+        {
+          "title": "Cylinder seal",
+          "artist": "",
+          "date": "ca. 15th–13th century BCE",
+          "medium": "Steatite",
+          "url": "https://www.metmuseum.org/art/collection/search/321423"
+        },
+        {
+          "title": "",
+          "artist": "",
+          "date": "20th century",
+          "medium": "Stone",
+          "url": "https://www.metmuseum.org/art/collection/search/38772"
+        },
+        {
+          "title": "Sealing",
+          "artist": "",
+          "date": "ca. 7th century CE",
+          "medium": "Un-baked clay",
+          "url": "https://www.metmuseum.org/art/collection/search/323349"
+        },
+        {
+          "title": "Terracotta fragment from a closed shape",
+          "artist": "",
+          "date": "late 6th/early 5th centuries BCE",
+          "medium": "Terracotta",
+          "url": "https://www.metmuseum.org/art/collection/search/766181"
+        },
+        {
+          "title": "Mold",
+          "artist": "",
+          "date": "ca. 1550–1295 B.C.",
+          "medium": "Pottery",
+          "url": "https://www.metmuseum.org/art/collection/search/554262"
+        },
+        {
+          "title": "Relief Showing the Head of a Winged Genius",
+          "artist": "Mesopotamian, Assyrian",
+          "date": "Neo–Assyrian Period, reign of King Ashurnasirpal II (883–859 BCE)",
+          "medium": "Gypsum relief with traces of pigment",
+          "url": "https://www.artic.edu/artworks/64936"
+        }
+      ],
+      "model": "llama3.2",
+      "generated_at": "2026-03-19T07:35:57.721453+00:00"
+    }
+  },
+  {
+    "title": "Fragments of the Divine",
+    "description": "A vibrant, dreamlike landscape where intricate, hand-painted miniature elements collide with expressive brushstrokes and gestural marks, reminiscent of Pollock's action painting.",
+    "medium": "Watercolor and ink on paper, incorporating 24K gold leaf ",
+    "dimensions": "36\" x 48\"",
+    "influences": [
+      "Mughal miniatures",
+      "Abstract Expressionism",
+      "Picabia's 'Edtaonisl'"
+    ],
+    "cultural_synthesis": "Exploring the intersection of spirituality and modernity through a fusion of traditional Indian art techniques with the raw energy of abstract expressionism.",
+    "image_prompt": "A swirling, gold-encrusted vortex dominates the canvas, as if a miniature painting had burst forth into a kaleidoscope of color and movement, amidst shards of broken mirror, like shattered prayer beads.",
+    "_meta": {
+      "seed_prompt": "What would a painting look like that merges Mughal miniature techniques with abstract expressionist gesture?",
+      "context_artworks": [
+        {
+          "title": "Portrait of a Ladakhi Mountain Goat",
+          "artist": "India",
+          "date": "Mughal dynasty (1526-1857), c. 1600",
+          "medium": "Opaque watercolor, ink, and gold on paper",
+          "url": "https://www.artic.edu/artworks/76868"
+        },
+        {
+          "title": "Painting from a Ceremonial House Ceiling",
+          "artist": "",
+          "date": "mid-20th century",
+          "medium": "Sago palm petiole, paint",
+          "url": "https://www.metmuseum.org/art/collection/search/313922"
+        },
+        {
+          "title": "Garden Scene",
+          "artist": "Iran\npossibly Shiraz",
+          "date": "Timurid dynasty (ca. 1370–1507), mid–15th century",
+          "medium": "Opaque watercolor and gold on paper",
+          "url": "https://www.artic.edu/artworks/70593"
+        },
+        {
+          "title": "Page from a Manuscript of Kulliyat (Complete Works) by Sa'di",
+          "artist": "Iran",
+          "date": "Safavid Dynasty (1501-1736), 17th century",
+          "medium": "Ink and opaque watercolor on paper",
+          "url": "https://www.artic.edu/artworks/130724"
+        },
+        {
+          "title": "Khosrow and Shirin in a Garden, a Scene from the Khamsa of Nizami",
+          "artist": "Iran",
+          "date": "Safavid Dynasty (1501-1736), late 16th/early 17th century",
+          "medium": "Ink, opaque watercolor, and gold on paper",
+          "url": "https://www.artic.edu/artworks/62808"
+        },
+        {
+          "title": "",
+          "artist": "",
+          "date": "15th century",
+          "medium": "Ink, opaque watercolor, and gold on paper",
+          "url": "https://www.metmuseum.org/art/collection/search/75001"
+        },
+        {
+          "title": "Ruler Entertained by Dancers in a Paradise Garden",
+          "artist": "India\nUttar Pradesh, Avadh",
+          "date": "Late 18th century",
+          "medium": "Opaque watercolor and gold on paper",
+          "url": "https://www.artic.edu/artworks/76890"
+        },
+        {
+          "title": "Edtaonisl (Ecclesiastic)",
+          "artist": "Francis Picabia\nFrench, 1879–1953",
+          "date": "1913",
+          "medium": "Oil on canvas",
+          "url": "https://www.artic.edu/artworks/80062"
+        }
+      ],
+      "model": "llama3.2",
+      "generated_at": "2026-03-19T07:36:00.468208+00:00"
+    }
+  },
+  {
+    "title": "Dance Floor",
+    "description": "",
+    "medium": "Ceramic; Song dynasty celadon glazing technique",
+    "dimensions": "Variable",
+    "influences": [
+      "Memphis Group",
+      "Song dynasty ceramists",
+      "African textiles"
+    ],
+    "cultural_synthesis": "Blending East Asian and West African artistic traditions through a postmodern lens",
+    "image_prompt": "Vibrant, abstract geometric patterns in turquoise and cobalt blue on a neutral celadon background with subtle texture evoking 20th-century Benin bronze sculpture.",
+    "_meta": {
+      "seed_prompt": "Conceive a ceramic work blending Song dynasty celadon glazing with Memphis Group postmodern design.",
+      "context_artworks": [
+        {
+          "title": "Tile with Musician and Dancer",
+          "artist": "Iran\nTehran or Shiraz",
+          "date": "Qajar dynasty (1796–1925), 19th century",
+          "medium": "Fritware with molded decoration and underglaze painting in black, turquoise, cobalt blue, and brownish-purple",
+          "url": "https://www.artic.edu/artworks/36504"
+        },
+        {
+          "title": "Openwork rattle",
+          "artist": "",
+          "date": "ca. late 8th–7th century BCE",
+          "medium": "Ceramic",
+          "url": "https://www.metmuseum.org/art/collection/search/323164"
+        },
+        {
+          "title": "Fragment",
+          "artist": "",
+          "date": "11th–12th century",
+          "medium": "Earthenware; monochrome glaze",
+          "url": "https://www.metmuseum.org/art/collection/search/450214"
+        },
+        {
+          "title": "Evening ensemble",
+          "artist": "Valentino",
+          "date": "ca. 1968",
+          "medium": "silk",
+          "url": "https://www.metmuseum.org/art/collection/search/97045"
+        },
+        {
+          "title": "",
+          "artist": "",
+          "date": "19th century",
+          "medium": "Porcelain painted in overglaze polychrome enamels (Bencharong ware for Thai market)",
+          "url": "https://www.metmuseum.org/art/collection/search/46194"
+        },
+        {
+          "title": "Garden Scene",
+          "artist": "Iran\npossibly Shiraz",
+          "date": "Timurid dynasty (ca. 1370–1507), mid–15th century",
+          "medium": "Opaque watercolor and gold on paper",
+          "url": "https://www.artic.edu/artworks/70593"
+        },
+        {
+          "title": "Vessel",
+          "artist": "",
+          "date": "19th–20th century",
+          "medium": "Terracotta",
+          "url": "https://www.metmuseum.org/art/collection/search/317779"
+        },
+        {
+          "title": "",
+          "artist": "",
+          "date": "late 17th–early 18th century",
+          "medium": "Porcelain painted in underglaze cobalt blue (Jingdezhen ware)",
+          "url": "https://www.metmuseum.org/art/collection/search/48283"
+        }
+      ],
+      "model": "llama3.2",
+      "generated_at": "2026-03-19T07:36:03.003118+00:00"
+    }
+  },
+  {
+    "title": "Songlines of the Dreaming",
+    "description": "A 360-degree, immersive visual experience where traditional Aboriginal dot paintings are woven into interactive data visualizations, creating an otherworldly cartography of the Dreamtime.",
+    "medium": "Mixed media installation combining dot painting, data visualization software, and fiber optic lights.",
+    "dimensions": "7ft x 10ft diameter, 3ft deep",
+    "influences": [
+      "Elihu Vedder",
+      "Yinibu people",
+      "Roy Lichtenstein",
+      "Leon Polk Smith"
+    ],
+    "cultural_synthesis": "Blending ancient storytelling with modern technology to reimagine the map of the Indigenous Australian experience",
+    "image_prompt": "A sphere surrounded by fiber optic lights pulsing with a vibrant, digital representation of the Dreamtime narrative, like the concentric circles of a dot painting, stretching outward into the audience.",
+    "_meta": {
+      "seed_prompt": "Envision a mixed-media installation that bridges Aboriginal Australian dot painting with data visualization art.",
+      "context_artworks": [
+        {
+          "title": "The Fates Gathering in the Stars",
+          "artist": "Elihu Vedder (American, 1836–1923)",
+          "date": "1887",
+          "medium": "Oil on canvas",
+          "url": "https://www.artic.edu/artworks/74967"
+        },
+        {
+          "title": "Painting from a Ceremonial House Ceiling",
+          "artist": "",
+          "date": "mid-20th century",
+          "medium": "Sago palm petiole, paint",
+          "url": "https://www.metmuseum.org/art/collection/search/313922"
+        },
+        {
+          "title": "Barritz Victoria #21042",
+          "artist": "Brewster & Co.",
+          "date": "1895",
+          "medium": "Overlay of graphite on glazed linen tracing paper.",
+          "url": "https://www.metmuseum.org/art/collection/search/760166"
+        },
+        {
+          "title": "Archaeologies of the Future, from Human_3.0 Reading List",
+          "artist": "Cauleen Smith\nAmerican, born 1967",
+          "date": "2015",
+          "medium": "Graphite and brush and colored inks with touches of opaque watercolor and acrylic paint on wove graph paper",
+          "url": "https://www.artic.edu/artworks/238028"
+        },
+        {
+          "title": "Playing in the Dark, from Human_3.0 Reading List",
+          "artist": "Cauleen Smith\nAmerican, born 1967",
+          "date": "2015",
+          "medium": "Graphite and brush and colored inks with touches of watercolor and traces of glitter glue on wove graph paper",
+          "url": "https://www.artic.edu/artworks/238039"
+        },
+        {
+          "title": "Mirror #3 (Six Panels)",
+          "artist": "Roy Lichtenstein\nAmerican, 1923-1997",
+          "date": "1971",
+          "medium": "Oil and Magna on two sets of three joined canvases",
+          "url": "https://www.artic.edu/artworks/184362"
+        },
+        {
+          "title": "Icebound",
+          "artist": "John Henry Twachtman (American, 1853–1902)",
+          "date": "c. 1889",
+          "medium": "Oil on canvas",
+          "url": "https://www.artic.edu/artworks/72801"
+        },
+        {
+          "title": "Constellation Green Square Accent",
+          "artist": "Leon Polk Smith\nAmerican, 1906–1996",
+          "date": "1971",
+          "medium": "Acrylic on canvas",
+          "url": "https://www.artic.edu/artworks/236545"
+        }
+      ],
+      "model": "llama3.2",
+      "generated_at": "2026-03-19T07:36:05.700575+00:00"
+    }
+  },
+  {
+    "title": "Nordic Bloom",
+    "description": "A metalwork brooch featuring intertwined Viking interlace patterns, surrounded by an organic flower motif reminiscent of Art Nouveau, set against a dark silver background.",
+    "medium": "Sterling silver, filigree and repoussé techniques",
+    "dimensions": "2.5 cm x 1.8 cm x 0.3 cm",
+    "influences": [
+      "Bow Brooch",
+      "Embroidery",
+      "Gold Strip"
+    ],
+    "cultural_synthesis": "Blending Norse metalwork traditions with the sinuous lines of Art Nouveau, creating a unique fusion of ancient and modern aesthetics.",
+    "image_prompt": "A dark silver brooch set against a black background, with intricate interlace patterns woven around a stylized, organic flower motif in a swirling vortex of curved lines and spirals.",
+    "_meta": {
+      "seed_prompt": "Design a metalwork piece combining Viking interlace patterns with Art Nouveau organic forms.",
+      "context_artworks": [
+        {
+          "title": "Bow Brooch",
+          "artist": "",
+          "date": "400–450",
+          "medium": "Silver with gold-sheet overlay and garnets",
+          "url": "https://www.metmuseum.org/art/collection/search/468181"
+        },
+        {
+          "title": "Disk Brooch",
+          "artist": "",
+          "date": "ca. 600",
+          "medium": "Gold, Worked in repoussé with twisted wire and filigree",
+          "url": "https://www.metmuseum.org/art/collection/search/468388"
+        },
+        {
+          "title": "The Elements (Furnishing Fabric)",
+          "artist": "Designed by Bonaventure M. Lebert (French, 1759-1836) \nManufactured by Hartmann et Fils (French, founded 1776)\nFrance, Nantes",
+          "date": "1810/20",
+          "medium": "Cotton, plain weave; copperplate printed",
+          "url": "https://www.artic.edu/artworks/61724"
+        },
+        {
+          "title": "Piece",
+          "artist": "",
+          "date": "16th–17th century",
+          "medium": "Silk",
+          "url": "https://www.metmuseum.org/art/collection/search/216355"
+        },
+        {
+          "title": "Gold Strip",
+          "artist": "",
+          "date": "700s",
+          "medium": "Gold",
+          "url": "https://www.metmuseum.org/art/collection/search/464052"
+        },
+        {
+          "title": "Embroidery",
+          "artist": "",
+          "date": "1774–92",
+          "medium": "Silk",
+          "url": "https://www.metmuseum.org/art/collection/search/220184"
+        },
+        {
+          "title": "Piece",
+          "artist": "",
+          "date": "second half 16th century",
+          "medium": "Silk",
+          "url": "https://www.metmuseum.org/art/collection/search/226703"
+        },
+        {
+          "title": "Porringer",
+          "artist": "Timothy Ley",
+          "date": "1691–92",
+          "medium": "Silver",
+          "url": "https://www.metmuseum.org/art/collection/search/197411"
+        }
+      ],
+      "model": "llama3.2",
+      "generated_at": "2026-03-19T07:36:08.343108+00:00"
+    }
+  },
+  {
+    "title": "Mestiza de la Vida",
+    "description": "A vibrant, large-scale fresco depicting a young woman gazing upwards, surrounded by intricate floral patterns and symbols inspired by Mexican folk art, while maintaining the formal structure and gold leaf accents characteristic of Byzantine icon painting.",
+    "medium": "Fresco on wet plaster, blending traditional lime mortar with 20th-century techniques",
+    "dimensions": "8x12 meters",
+    "influences": [
+      "Portrait of Marevna",
+      "Painting from a Ceremonial House Ceiling",
+      "Saint Francis Kneeling in Meditation",
+      "Edtaonisl (Ecclesiastic)"
+    ],
+    "cultural_synthesis": "Blending the mystical narratives and symbolic imagery of Mexican folk art with the spiritual intensity of Byzantine icon painting, Mestiza de la Vida becomes a testament to the power of intercultural dialogue.",
+    "_meta": {
+      "seed_prompt": "What fresco would result from merging Byzantine icon painting with Mexican muralism?",
+      "context_artworks": [
+        {
+          "title": "Portrait of Marevna",
+          "artist": "Diego Rivera (Mexican, 1886–1957)",
+          "date": "c. 1915",
+          "medium": "Oil on canvas",
+          "url": "https://www.artic.edu/artworks/7021"
+        },
+        {
+          "title": "Painting from a Ceremonial House Ceiling",
+          "artist": "",
+          "date": "mid-20th century",
+          "medium": "Sago palm petiole, paint",
+          "url": "https://www.metmuseum.org/art/collection/search/313922"
+        },
+        {
+          "title": "Plate 46: Venustiano Carranza protesting against the American invasion of 1914,  from the portfolio 'Estampas de la revolución Mexicana' (prints of the Mexican Revolution)",
+          "artist": "Taller de Gráfica Popular|Francisco Mora",
+          "date": "1947",
+          "medium": "Linocut",
+          "url": "https://www.metmuseum.org/art/collection/search/714475"
+        },
+        {
+          "title": "\"Untitled\"",
+          "artist": "Felix Gonzalez-Torres\nAmerican, born Cuba, 1957-1996",
+          "date": "1989",
+          "medium": "Enamel paint on wall",
+          "url": "https://www.artic.edu/artworks/159824"
+        },
+        {
+          "title": "Saint Francis Kneeling in Meditation",
+          "artist": "El Greco (Doménikos Theotokópoulos; Greek, active in Spain, 1541–1614)",
+          "date": "c. 1595–c. 1600",
+          "medium": "Oil on canvas",
+          "url": "https://www.artic.edu/artworks/21907"
+        },
+        {
+          "title": "Edtaonisl (Ecclesiastic)",
+          "artist": "Francis Picabia\nFrench, 1879–1953",
+          "date": "1913",
+          "medium": "Oil on canvas",
+          "url": "https://www.artic.edu/artworks/80062"
+        },
+        {
+          "title": "Plate 7: Composition with stucco ornaments of a man and a woman, viewed from the rear; from the 'Galleria Dipinta nel Palazzo del Prencipe Panfilio' after the ceiling frescoes by Pietro da Cortona depicting the history of Aeneas in the Palazzo Pamphili, Rome",
+          "artist": "Pietro da Cortona (Pietro Berrettini)|Cardinal Camillo Pamphili|Giovanni Giacomo De Rossi|Carlo Cesi",
+          "date": "ca. 1661",
+          "medium": "Etching",
+          "url": "https://www.metmuseum.org/art/collection/search/368022"
+        },
+        {
+          "title": "Crucifixion",
+          "artist": "María Josefa Sánchez (Spanish, active 1639–1649)",
+          "date": "1646",
+          "medium": "Oil on panel",
+          "url": "https://www.artic.edu/artworks/242449"
+        }
+      ],
+      "model": "llama3.2",
+      "generated_at": "2026-03-19T07:36:11.062689+00:00"
+    }
+  },
+  {
+    "title": "Cosmic Yamabushi",
+    "description": "A 3-color woodblock print depicting a futuristic Yamabushi shrine in the Japanese countryside, amidst swirling clouds of purple and blue smoke, surrounded by celestial bodies and neon-lit lotus flowers.",
+    "medium": "Woodblock print on paper with metallic ink accents",
+    "dimensions": "36 x 24 cm oban ",
+    "influences": [
+      "Figures Screen (Duein Fubara)",
+      "View from Massaki of Suijin Shrine",
+      "Precincts of Kameido Tenjin Shrine"
+    ],
+    "cultural_synthesis": "Bridge between Shinto mysticism and Afrofuturist futurism",
+    "image_prompt": "",
+    "_meta": {
+      "seed_prompt": "Imagine a print that synthesizes Edo-period ukiyo-e with Afrofuturist visual language.",
+      "context_artworks": [
+        {
+          "title": "Figure Screen (Duein Fubara)",
+          "artist": "Kalabari Ijo\nNigeria\nCoastal West Africa",
+          "date": "Early 20th century",
+          "medium": "Wood, pigment, and fiber",
+          "url": "https://www.artic.edu/artworks/185162"
+        },
+        {
+          "title": "View from Massaki of Suijin Shrine, Uchigawa Inlet, and Sekiya (Massaki hen yori Suijin no mori Uchigawa Sekiya no sato o miru zu), from the series \"One Hundred Famous Views of Edo (Meisho Edo hyakkei)\"",
+          "artist": "Utagawa Hiroshige 歌川 広重\nJapanese, 1797-1858",
+          "date": "1857",
+          "medium": "Color woodblock print; oban",
+          "url": "https://www.artic.edu/artworks/26561"
+        },
+        {
+          "title": "Worker Shabti of Nauny",
+          "artist": "",
+          "date": "ca. 1050 B.C.",
+          "medium": "Faience",
+          "url": "https://www.metmuseum.org/art/collection/search/625802"
+        },
+        {
+          "title": "",
+          "artist": "Utagawa Kunisada",
+          "date": "",
+          "medium": "Woodblock print; ink and color on paper",
+          "url": "https://www.metmuseum.org/art/collection/search/58210"
+        },
+        {
+          "title": "",
+          "artist": "",
+          "date": "1875–80",
+          "medium": "Lithograph",
+          "url": "https://www.metmuseum.org/art/collection/search/688473"
+        },
+        {
+          "title": "Peonies",
+          "artist": "Kitagawa Utamaro 喜多川 歌麿\nJapanese, c.1753-1806",
+          "date": "n.d.",
+          "medium": "Color woodblock print; surimono",
+          "url": "https://www.artic.edu/artworks/47580"
+        },
+        {
+          "title": "",
+          "artist": "",
+          "date": "19th century",
+          "medium": "Lacquer, roiro, hirame, gold and coloured hiramakie, takamakie; Interior: nashiji and fundame",
+          "url": "https://www.metmuseum.org/art/collection/search/58690"
+        },
+        {
+          "title": "Precincts of Kameido Tenjin Shrine (Kameido Tenjin keidai), from the series \"One Hundred Famous Views of Edo (Meisho Edo hyakkei)\"",
+          "artist": "Utagawa Hiroshige 歌川 広重\nJapanese, 1797-1858",
+          "date": "1856",
+          "medium": "Color woodblock print; oban",
+          "url": "https://www.artic.edu/artworks/26607"
+        }
+      ],
+      "model": "llama3.2",
+      "generated_at": "2026-03-19T07:36:13.426577+00:00"
+    }
+  },
+  {
+    "title": "Mosaic of Light",
+    "description": "A delicate, translucent glass vessel with intricate Islamic geometric patterns suspended within a web of transparent, layered colors reminiscent of 14th-century Venetian opaline glass. The vessel's curved form is punctuated by shards of crystal-clear glass that refract and reflect light, casting an ethereal glow on surrounding surfaces.",
+    "medium": "Hand-blown glass with intricate cutting and engraving",
+    "dimensions": "Height: 20cm, Width: 15cm, Depth: 5cm",
+    "influences": [
+      "M.C. Majus",
+      "Tahsin Cengiz"
+    ],
+    "cultural_synthesis": "The fusion of Islamic geometric patterns with the mastery of Venetian glassblowing techniques creates a unique visual language that draws upon the intricate beauty of both traditions.",
+    "image_prompt": "A delicate, hand-blown glass vessel with swirling patterns of interlocking hexagons and chevrons, suspended in a matrix of translucent colors.",
+    "_meta": {
+      "seed_prompt": "Describe a glass artwork fusing Islamic geometric patterns with Venetian glassblowing techniques.",
+      "context_artworks": [
+        {
+          "title": "Fragment",
+          "artist": "",
+          "date": "9th century",
+          "medium": "Earthenware; molded decoration, glazed",
+          "url": "https://www.metmuseum.org/art/collection/search/451530"
+        },
+        {
+          "title": "Fragment",
+          "artist": "",
+          "date": "11th–12th century",
+          "medium": "Earthenware; monochrome glaze",
+          "url": "https://www.metmuseum.org/art/collection/search/450214"
+        },
+        {
+          "title": "Column",
+          "artist": "",
+          "date": "14th century",
+          "medium": "Black marble",
+          "url": "https://www.metmuseum.org/art/collection/search/454644"
+        },
+        {
+          "title": "Fragment",
+          "artist": "",
+          "date": "ca. 1150–ca. 1250",
+          "medium": "Glass, ceramic",
+          "url": "https://www.metmuseum.org/art/collection/search/694330"
+        },
+        {
+          "title": "Jar",
+          "artist": "",
+          "date": "8th–9th century",
+          "medium": "Earthenware; glazed",
+          "url": "https://www.metmuseum.org/art/collection/search/448969"
+        },
+        {
+          "title": "Dish",
+          "artist": "",
+          "date": "11th–12th century",
+          "medium": "Bronze; cast",
+          "url": "https://www.metmuseum.org/art/collection/search/449140"
+        },
+        {
+          "title": "Textile Fragment",
+          "artist": "",
+          "date": "7th–8th century",
+          "medium": "Wool, linen; tapestry weave",
+          "url": "https://www.metmuseum.org/art/collection/search/444140"
+        },
+        {
+          "title": "Ensemble",
+          "artist": "",
+          "date": "1800–1942",
+          "medium": "Silk",
+          "url": "https://www.metmuseum.org/art/collection/search/125690"
+        }
+      ],
+      "model": "llama3.2",
+      "generated_at": "2026-03-19T07:36:16.334667+00:00"
+    }
+  }
+]

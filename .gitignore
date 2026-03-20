@@ -1,7 +1,9 @@
 venv/
 data/
 embeddings/
-generated/
+generated/*
+!generated/concepts.json
+!generated/images/
 logs/
 __pycache__/
 *.pyc
